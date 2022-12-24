@@ -23,16 +23,18 @@ console.log(b);
 function hello():void
 {
     console.log("This is welcome message")
+    console.log("Test1");
+    console.log("Test2");
 }
 
 //Null
-var num1:number=null;
+/* var num1:number=null;
 num1=100;
 console.log(num1);
 //undefined
 var num2:number=undefined;
 num2=200;
-console.log(num2);
+console.log(num2); */
 
 //Any
 var val:any="hi";
