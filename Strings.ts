@@ -9,7 +9,8 @@ console.log(myString.charAt(2));
 var str1:string="welcome";
 var str2:string=" To Typescript";
 var str3:string=" and protractor";
-console.log(str1.concat(str2).concat(str3));
+var str4 ="Jignasha";
+console.log(str1.concat(str2).concat(str3).concat(str4));
 //replace()
 var str="Typescript Programming";
 console.log(str.replace('i','a'));
